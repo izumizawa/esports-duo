@@ -1,0 +1,3 @@
+[submodule "esports-duo-mobile"]
+	path = esports-duo-mobile
+	url = git@github.com:izumizawa/esports-duo-mobile.git

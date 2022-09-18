@@ -37,11 +37,11 @@ Aplicação Web em [ReactJS](https://pt-br.reactjs.org/) e Mobile com [React Nat
   - [x] Adicionar um anúncio para um jogo
   - [x] Listar todos os anúncios de um jogo
   - [x] Receber o discord de uma pessoa de um anúncio
-- [ ] Aplicação Web
+- [x] Aplicação Web
   - [x] Landing Page com jogos listados
   - [x] Modal de publicar anúncio
-  - [ ] Notificações (push notifications)
-- [ ] Aplicação Mobile
+  - [ ] Ajustar responsividade da app web
+- [x] Aplicação Mobile
   - [x] Tela de início com jogos
   - [x] Tela do jogo com anúncios listados
   - [x] Modal com discord da pessoa de um anúncio

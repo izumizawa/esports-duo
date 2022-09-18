@@ -111,8 +111,6 @@ $ expo install
 $ expo start
 ```
 
-## Aplicação Mobile
-
 ## 🛠 Tecnologias
 
 As seguintes ferramentas foram usadas na construção do projeto:

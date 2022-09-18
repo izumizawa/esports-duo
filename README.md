@@ -102,10 +102,10 @@ $ npm run dev
 
 ```bash
 # Com o repo clonado, acesse a pasta mobile do projeto
-$ cd esports-duo/mobile
+$ cd esports-duo/esports-duo-mobile
 
 # Instale as dependências
-$ expo install
+$ npm install
 
 # Com seu emulador aberto (android studio ou dispositivo conectado via expo), execute a aplicação do servidor em modo de desenvolvimento
 $ expo start
